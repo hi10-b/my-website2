@@ -8,10 +8,12 @@
             {/* WORK SECTION */}
             <div className="row work">
                 <div className="twelve columns header-col">
-                <h1><span>Experience</span></h1>
-                <h3>Software Developer + IT Support</h3>
-                <h5>Crossmark Australia</h5>
-              </div>
+                  <h1><span>Experience</span></h1>
+                  <h3>Software Developer + IT Support</h3>
+                  <h5>Crossmark Australia</h5>
+                  <p>This full-time position involves designing, building, and developing mobile applications through Android Studio making use of Java and XML. Providing application support alognside the development. </p>
+              
+                </div>
               <p>
                 <p className='twelve columns'>- Manage tickets and troubleshoot app issues over the phone and in the office<br></br>
     - Setup PCs and accounts for field employees and office staff<br></br>
@@ -22,6 +24,7 @@
                 <h3>Web Developer</h3>
               <h5>Volunteer Project</h5>
               </div>
+              <p>This volunteer project involves redesigning and developing a React web application. The full-stack development includes designing structure being exposed to SQL Server and NodeJS.</p>
               <p>
                 <p className='twelve columns'>- Designed and created a customised blog-based website for the organisation
     <br></br>
